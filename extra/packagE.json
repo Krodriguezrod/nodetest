@@ -1,0 +1,20 @@
+{
+    "name": "nodedemo",
+    "version": "1.0.0",
+    "description": "node crash course",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index",
+      "dev" : "nodemon index"
+  
+    },
+    "author": "Kevin Rodriguez",
+    "license": "ISC",
+    "dependencies": {
+      "uuid": "^9.0.1"
+    },
+    "devDependencies": {
+      "nodemon": "^3.0.1"
+    }
+  }
+  
